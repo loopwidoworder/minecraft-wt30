@@ -1,4 +1,4 @@
-#  
+#  no-ban Script for evade offers the most advanced evade Script, with teleport and private server access. Perfect for dominating any match.
 
 
 
